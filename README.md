@@ -47,13 +47,12 @@ This ensures the correct operation of the nodes and the simulation environment.
 - The YouTube tutorial link provides a quick guide on setting up and using the ROS2 Nav2 Navigation Stack.
 
 ## Credits and Acknowledgments
-- Professor: [Name of the Professor]
+- Professor: Ricardo Carminati de Mello
 - Course: Autonomous Robots
 - Institution: Federal University of Espirito Santo
-- Contributors: [List of Contributors]
 
 ## Contact Information
 For further queries or support, contact:
 - Email: eliotrianar95@gmail.com
 - Phone: (27) 996 561 995
-- Address: Universidade Federal do Espirito Santo
+- Address: Federal University of Espirito Santo
