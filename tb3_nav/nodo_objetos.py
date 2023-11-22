@@ -28,7 +28,8 @@ matplotlib.use('TkAgg')
 
 # Inicializacion de objeto padre de procesamiento
 class DetectObjects(Node):
-    ruta_almacenamiento = '/home/elio/ws_ros/archivos_v'
+    #ruta_almacenamiento = '/home/elio/ws_ros/archivos_v'
+    ruta_almacenamiento = '/home'
     def __init__(self):
         super().__init__('obstacle_scan')
         # Inicializacion de las variables
