@@ -13,7 +13,8 @@ Continuing with the necessary packages, the package was mainly built in Python 3
 
 ## Necessary Libraries
 - Turtlebot3 for ROS2 humble and the packages installed in the Nav navigation tutorial.
-- [234] ROS2 Nav2 - Navigation Stack in 1 Hour [Crash Course] - YouTube
+- ROS2 Nav2 - Navigation Stack in 1 Hour [Crash Course] - YouTube
+- [Comprehensive Markdown Crash Course](https://www.youtube.com/watch?v=idQb2pB-h2Q&t=1320s)
 
 ## Package Content
 The package contains:
